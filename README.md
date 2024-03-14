@@ -154,6 +154,7 @@ visualize_patterns_line(party_wear_result, 'Party Wear')
 
 ### Output:
 ![web out 1](https://github.com/Sakthimurugavel/WDM_EXP3/assets/118707246/b621c2c8-c21d-48e9-b501-e427432d9571)
+
 ![web out 2](https://github.com/Sakthimurugavel/WDM_EXP3/assets/118707246/fad9556e-d9f8-4ac8-be23-3070fb00bcb7)
 
 ### Result:
